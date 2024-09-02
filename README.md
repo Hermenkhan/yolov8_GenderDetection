@@ -34,3 +34,6 @@ Ensure that you have installed all the dependencies mentioned in the `requiremen
 3. Run the `work.py` script or explore the functionalities through the `track_count_persons.ipynb` notebook.
 
 
+## DOWNLOAD MODELS FROM THIS LINK:
+
+https://drive.google.com/drive/folders/1ZnJoTlwsM5oV3sNwrpQsNyuS6_mrY2l4?usp=sharing
